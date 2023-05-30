@@ -1,0 +1,144 @@
+G:\3P Dawid J\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+G:\3P Dawid J\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+G:\3P Dawid J\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+G:\3P Dawid J\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Dawid\Downloads\kalkulato (3) (1)\kalkulato\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Dawid\Desktop\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\admin\Desktop\kalkulator\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Dawid\Desktop\Szkoła\Knop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\App.g.cs
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\grzes\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Dawid\Downloads\kalkulator_v5\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\kalkulator v5\Kalkulator\obj\Debug\Kalkulator.exe
